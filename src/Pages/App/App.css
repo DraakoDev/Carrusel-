@@ -1,0 +1,8 @@
+main {
+  background-color: #202020;
+  min-height: 100vh;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: gray;
+}
